@@ -6,17 +6,15 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+- [Author](#author)
+
+
+
 
 ## Overview
 
@@ -29,14 +27,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - CSS custom properties
 - Flexbox
-- BEM 
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-
+- BEM Approach
 
 ## Author
 
