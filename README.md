@@ -43,4 +43,3 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Website - [Nana Kwame Nketsiah](https://nana-kwame.vercel.app)
 - Frontend Mentor - [@nanaknketsiah](https://www.frontendmentor.io/profile/nanaknketsiah)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
